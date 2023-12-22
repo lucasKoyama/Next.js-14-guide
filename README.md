@@ -7,7 +7,7 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 ### :warning: that app uses server components and server-side rendering, so it won't work fully on vercel deployment. To visualize the project, follow the steps below:
 
 ## Running on local machine steps
-1. **clone:** `git clone`
-2. **go to the folder:** `cd next.js-14-guide`
+1. **clone:** `git clone git@github.com:lucasKoyama/Next.js-14-guide.git`
+2. **go to the folder:** `cd Next.js-14-guide`
 3. **install dependencies:** `npm i`
 4. **run the project in dev mode:** `npm run dev`
