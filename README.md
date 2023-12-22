@@ -4,7 +4,7 @@ That is a full-stack Next.js 14 course covering how to create a Web App with a V
 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
-:warning: that app uses server components and server-side rendering, so it won't work fully on vercel deployment. To visualize the project, follow the steps below:
+### :warning: that app uses server components and server-side rendering, so it won't work fully on vercel deployment. To visualize the project, follow the steps below:
 
 ## Running on local machine steps
 1. **clone:** `git clone`
